@@ -1,0 +1,12 @@
+.logo {
+  object-fit: contain;
+  align-self: center;
+  height: auto;
+  max-width: 95px;
+}
+
+.submit {
+  background-color: #006cb4;
+  color: #fff;
+  width: 150px;
+}

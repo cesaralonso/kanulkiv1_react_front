@@ -1,0 +1,48 @@
+.balance-month {
+  text-transform: capitalize;
+}
+
+.btn-pdf {
+  background-color: #f40f02;
+  color: #fff;
+}
+
+@media (max-width: 575.98px) {
+  .payment-actions {
+    position: relative;
+    margin-top: 10px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .payment-actions {
+    position: relative;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .payment-actions {
+    position: absolute;
+    right: 10px;
+    bottom: 20px;
+    top: 20px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .payment-actions {
+    position: absolute;
+    right: 10px;
+    bottom: 20px;
+    top: 20px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .payment-actions {
+    position: absolute;
+    right: 10px;
+    bottom: 20px;
+    top: 20px;
+  }
+}
